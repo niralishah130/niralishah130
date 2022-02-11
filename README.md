@@ -1,16 +1,26 @@
-### Hi there 👋
+## Intro
+Hi there 👋🏼 - I'm Nirali Shah. After graduating from college a few years ago studying CS and Philosophy, I turned my love for logic into a career in Technical Program Management at Microsoft, and now GitHub, bringing logic in the form of structured plans and established processes to my programs. 
 
-<!--
-**niralishah130/niralishah130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Above all, my purpose is helping others find their own purposes. On the job, that's through giving meaning to products and solutions, not on the job, that's through giving meaning to life - throughout both, giving meaning to the people I have the opportunity of connecting with (from my peers to my end users to my readers). 
 
-Here are some ideas to get you started:
+Some parts of my career I want to explore further:
+💡 Product strategy and vision
+🗞️ Product positioning and messaging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My favorite novel:
+📘 Book Thief
+
+My favorite sports teams:
+🏈 Baltimore Ravens
+🧡 UVA Basketball
+
+Some of my other favorite things:
+🥘 I love cooking (veg!)
+☮️ Spirituality, religion, and philosophy get my mind going
+🚶 I love hiking, walking, being outside
+🌆 I love sunsets 🏖️ The beach is my happy place
+
+A fun fact:
+I wrote a [book](https://the-everyday-gita.squarespace.com/) 🌞! 
+I love to write 🖋️. Check out my [blog](https://the-everyday-gita.squarespace.com/the-blog).
+
