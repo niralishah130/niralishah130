@@ -8,7 +8,7 @@ Some parts of my career I want to explore further:
 🗞️ Product positioning and messaging
 
 My favorite novel:
-📘 Book Thief
+📘 The Book Thief
 
 My favorite sports teams:
 🏈 Baltimore Ravens
