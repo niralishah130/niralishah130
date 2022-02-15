@@ -25,6 +25,6 @@ I wrote a [book](https://the-everyday-gita.squarespace.com/) 🌞!
 I love to write 🖋️. Check out my [blog](https://the-everyday-gita.squarespace.com/the-blog).
 
 🎧 I'm listening to: <br> </samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/niralishah130/spotify-github-profile) <br>
 <br><br><br><br><br>
 
